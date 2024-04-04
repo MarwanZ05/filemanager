@@ -18,5 +18,5 @@ To create a file in a new directory and change its permissions so that others ca
 No known bugs.
 # AUTHOR 
 Marwan Ahmed, Heba Abdallah, Mohamed Ali, Ammar Ahmed 
-COPYRIGHT 
-CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# LICENSE 
+Creative Commons Zero v1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/deed.en
