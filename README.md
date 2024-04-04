@@ -2,6 +2,8 @@
 File Manager (Operating Systems-1 Task)
 # SYNOPSIS 
 ./file_manager [-gui/-cli]
+- -gui: Runs the program as a Graphical User Interface
+- -cli: Runs the program directly in the command line
 # DESCRIPTION
 A command-line or GUI file manager in Ubuntu 22.04 LTS. 
 Features:
